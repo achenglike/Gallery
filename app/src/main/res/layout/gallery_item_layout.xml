@@ -14,5 +14,7 @@
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
         android:layout_marginBottom="@dimen/text_margin_bottom"
+        android:background="#99000000"
+        android:textColor="@android:color/white"
         android:layout_alignParentBottom="true"/>
 </RelativeLayout>
