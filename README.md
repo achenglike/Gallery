@@ -46,3 +46,8 @@ Gallery的item可以自定义布局
 ### 效果图
 
 ![image](https://github.com/achenglike/Gallery/raw/master/pic/GIF.gif)
+
+
+### 参考内容
+[Gallery滑动一页(一个Item)效果](http://www.trinea.cn/android/gallery-scroll-one-page/)   
+base-adapter-helper 项目，但是已经找不到原来的地址，知道的可以给我说下
