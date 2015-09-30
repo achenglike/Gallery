@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Gallery">
+        <attr name="scaleP" format="float" />
+        <attr name="gallery_padding_top" format="reference|dimension"/>
+        <attr name="gallery_padding_bottom" format="reference|dimension"/>
+        <attr name="gallery_padding_left" format="reference|dimension"/>
+        <attr name="gallery_padding_right" format="reference|dimension"/>
+        <attr name="gallery_padding" format="reference|dimension" />
+        <attr name="gallery_pics_space" format="reference|dimension" />
+    </declare-styleable>
+</resources>

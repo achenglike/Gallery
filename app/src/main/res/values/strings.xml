@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GalleryDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="open_one">打开Activity One</string>
+    <string name="demo_string_a">窗外的麻雀 在电线杆上多嘴</string>
+    <string name="demo_string_b">你说这一句 很有夏天的感觉</string>
+    <string name="demo_string_c">手中的铅笔 在纸上来来回回</string>
+    <string name="demo_string_d">我用几行字形容你是我的谁</string>
+    <string name="demo_string_e">秋刀鱼的滋味 猫跟你都想了解</string>
+    <string name="demo_string_f">初恋的香味就这样被我们寻回</string>
+    <string name="demo_string_g">那温暖的阳光 像刚摘的鲜艳草莓</string>
+    <string name="demo_string_h">你说你舍不得吃掉这一种感觉</string>
+    <string name="demo_string_i">雨下整夜 我的爱溢出就像雨水</string>
+    <string name="demo_string_j">院子落叶 跟我的思念厚厚一叠</string>
+    <string name="demo_string_k">几句是非 也无法将我的热情冷却</string>
+</resources>

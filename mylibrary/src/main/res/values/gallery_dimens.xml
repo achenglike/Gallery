@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gallery_center_margin">10dp</dimen>
+    <dimen name="gallery_left_margin">40dp</dimen>
+    <dimen name="gallery_right_margin">40dp</dimen>
+    <dimen name="gallery_top_margin">40dp</dimen>
+    <dimen name="gallery_bottom_margin">40dp</dimen>
+</resources>
