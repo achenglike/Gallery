@@ -42,6 +42,25 @@ Gallery的item可以自定义布局
         gallery:gallery_padding="50dp">
     </com.example.like.mylibrary.Gallery>
 ```  
+### 为Gallery设置数据
+参考了base-adapter-helper的实现方式，可以方便的为Gallery设置布局与数据
+```
+mQuickPagerAdapter = new QuickPagerAdapter<Bean>(this, R.layout.gallery_item_layout, data) {
+            @Override
+            protected void convertView(BaseAdapterHelper helper, final Bean item) {
+                helper.setImageResource(R.id.imageview, item.getImgResId());
+                helper.setText(R.id.textview, getString(item.getStrResId()));
+                helper.setImageOnClickListener(R.id.imageview, new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        Toast.makeText(getBaseContext(), getString(item.getStrResId()), Toast.LENGTH_SHORT).show();
+                    }
+                });
+            }
+        };
+        gallery.setAdapter(mQuickPagerAdapter);
+```  
+
 
 ### 效果图
 
