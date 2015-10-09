@@ -28,8 +28,8 @@ Gallery的item可以自定义布局
 
 ##### 定义Gallery  
 
-定义Gallery主图片两侧的边距   gallery_pics_space  
-定义Gallery图片间的间距       gallery_padding(也可使用 gallery_padding_top等等)  
+定义Gallery主图片两侧的边距   gallery_padding(也可使用 gallery_padding_top等等)  
+定义Gallery图片间的间距       gallery_pics_space  
 定义Gallery图片缩小的最小比例 scaleP  
 例如：
 ```
