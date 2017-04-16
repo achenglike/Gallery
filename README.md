@@ -3,7 +3,7 @@ viewpager实现的Gallery库
 项目分为app(demo工程)，mylib(依赖库工程)  
 Gallery的item可以自定义布局
 
-###Gallery库的使用
+### Gallery库的使用
 ##### 直接使用
 
 ```
